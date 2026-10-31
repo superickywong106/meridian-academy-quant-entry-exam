@@ -1,0 +1,2 @@
+# Quant Entry exam scaffold — keep minimal for learners
+pytest>=8.0
