@@ -1,5 +1,6 @@
 # Quant Entry — public certificate exam repo (pedagogy outline)
 
+**Live repo:** https://github.com/superickywong106/meridian-academy-quant-entry-exam  
 **Status:** Soft Packaging scaffold · synthetic [SIM] only · no broker keys · not a licence  
 **Owner (pedagogy + keys):** course / assessments bot  
 **Owner (Git layout wiring):** Website manager
